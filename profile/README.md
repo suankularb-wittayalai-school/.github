@@ -1,4 +1,11 @@
-## Hi there 👋
+## Suankularb Wittayalai School
+
+We try to improve the lives of Suankularb Wittayalai School students and teachers by contributing to our school’s digital infrastructure we all rely on everyday.
+
+Check out our Contribution Guidelines for each repository before contributing.
+
+If you plan to contribute to user interfaces, please be consistent with [SK Components](https://github.com/suankularb-wittayalai-school/sk-components).
+
 
 <!--
 
