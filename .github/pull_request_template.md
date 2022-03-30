@@ -1,11 +1,3 @@
----
-name: Pull request
-about: Merge a branch to main with a pull request. Types are “Feature” (optional), “Fix”, and “Refactor”.
-title: "[TYPE]: [NAME]"
-labels: ""
-assignees: ""
----
-
 ![image]()
 
 **Features**
