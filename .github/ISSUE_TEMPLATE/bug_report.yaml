@@ -1,0 +1,53 @@
+name: Bug Report
+description: File a bug report to help us improve
+title: ""
+labels: "type: bug"
+assignees: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report.
+  - type: checkboxes
+    id: no-duplicate
+    attributes:
+      label: Before we beign
+      description: We need to make sure that you have already searched the Issues page, and that this bug report isn’t a duplicate.
+      options:
+        - label: I am sure this bug report is not a duplicate.
+          required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Tell us what you saw, and what you think should have happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Give us a step-by-step breakdown of what you did before the error.
+      value: |
+        1. 
+        2. 
+        3. 
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of our software are you running?
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge

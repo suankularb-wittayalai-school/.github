@@ -1,0 +1,30 @@
+name: Feature Request
+description: Suggest an idea for this project
+title: ""
+labels: "type: enhancement"
+assignees: ""
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to let us hear your idea.
+  - type: checkboxes
+    id: no-duplicate
+    attributes:
+      label: Before we beign
+      description: We need to make sure that you have already searched the Issues page, and that this request isn’t a duplicate.
+      options:
+        - label: I am sure this request is not a duplicate.
+          required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem (optional)
+      description: Is your feature request related to a problem? Please describe.
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution
+      description: Describe the solution you’d like
+    validations:
+      required: true
