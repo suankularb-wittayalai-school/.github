@@ -1,9 +1,13 @@
-## Suankularb Wittayalai School
+## SK IT Solutions
 
-![image](https://user-images.githubusercontent.com/26425747/160355115-59739252-601a-4464-b89e-a45ab8e2bc2e.png)
+![image](https://github.com/suankularb-wittayalai-school/.github/assets/26425747/1a7206f5-5189-4734-8a67-78e475af8258)
 
-We try to improve the lives of Suankularb Wittayalai School students and teachers by contributing to our school’s digital infrastructure we all rely on everyday.
+We aim to improve the lives of Suankularb Wittayalai School students and teachers by contributing to our school’s digital infrastructure we all rely on everyday.
 
-**Wanna contribute?** First of all, welcome! Second, why not join our [Discord server](https://discord.gg/RhzB2pp5Qw)? And finally, please check out our Contribution Guidelines for each repository before contributing.
+### Contributing
 
-If you plan to contribute to user interfaces, please be consistent with [SK Components](https://github.com/suankularb-wittayalai-school/sk-components).
+We’re working on making it easier for others to contribute. [Join our Discord server](gttps://discord.gg/RhzB2pp5Qw) to ask about contributing.
+
+- **Issues and requests**: You can use the GitHub Issues page on our repositories for issues and requests, available in both Thai and English.
+- **Design**: Suankularb apps should be designed with [Suankularb Components](https://github.com/suankularb-wittayalai-school/sk-components) (a superset of Material Design).
+- **Development**: If you know Next.js, use the [SK Next.js Template](https://github.com/suankularb-wittayalai-school/sk-nextjs-template) as a template.
