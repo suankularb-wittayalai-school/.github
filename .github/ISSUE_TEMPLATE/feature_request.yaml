@@ -9,10 +9,9 @@ body:
   - type: checkboxes
     id: no-duplicate
     attributes:
-      label: Before we beign
-      description: We need to make sure that you have already searched the Issues page, and that this request isn’t a duplicate.
+      label: Before we begin
       options:
-        - label: I am sure this request is not a duplicate.
+        - label: I have already searched the Issues page, and I am sure this feature request isn’t a duplicate.
           required: true
   - type: textarea
     id: problem
